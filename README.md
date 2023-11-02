@@ -1,4 +1,4 @@
-# ez_notes
+# EZNotes
 
 A new Flutter project.
 
