@@ -1,16 +1,11 @@
-# ez_notes
+# EZ Notes
 
-A new Flutter project.
+A simple note taking app made with flutter. Notes are saved automatically so you never have to worry about loosing anything. This app is beginner frindly you can clone this repo to customize according to you.
 
-## Getting Started
+**Features**
 
-This project is a starting point for a Flutter application.
+* Simple ui.
+* Automatically saved note when back pressed
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Oflline database with fast read and write
+* Delete your notes

@@ -1,4 +1,4 @@
 class AppStrings {
 
-  static const appName = "EZNotes";
+  static const appName = "EZ Notes";
 }
